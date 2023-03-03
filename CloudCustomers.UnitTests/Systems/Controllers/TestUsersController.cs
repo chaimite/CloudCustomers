@@ -1,5 +1,6 @@
 
-using CloudCustomers.API.Controllers;
+using CloudCustomers.Controllers;
+using Xunit;
 
 namespace CloudCustomers.UnitTests;
 
